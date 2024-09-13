@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Reporta.Client",
   "resources": {
-    "hash": "sha256-9kz84AyBYuNBm9VxK1s4Nb85eLGA2QMjcumIkjbzUhI=",
+    "hash": "sha256-7vlGLCtxXJX5RvaPjBrUb0zLM/SaLaGSKdvoPxOxTic=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.t66nkhsggx.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -50,7 +50,7 @@
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-1sWLoPsP5kpMYEif4b3SpIZa141kvugmNJmTW3TaPAk=",
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "Radzen.Blazor.wasm": "sha256-7rCj+aEfYS4c/14+WbBsdzlRwRFZZXFz3wMMUmICHMA=",
-      "Reporta.Client.wasm": "sha256-DfFrPGhgeBEETyNfFaT1oyyTfaR8/0p8rUaIVeJhibo=",
+      "Reporta.Client.wasm": "sha256-JPNvOFSVb7vEWd1ovHwO5I0fL5M+AXgbu/uyhcxDdLA=",
       "System.Collections.Concurrent.wasm": "sha256-3vtuSZTnucYaHkR95UvCXh1ZwqT1UbnWhu4JrIf//50=",
       "System.Collections.Immutable.wasm": "sha256-RtKR7ce7sELstbsAL3LriQY8acMSejWsg/zie4bJazQ=",
       "System.Collections.NonGeneric.wasm": "sha256-rttIvz7GBX09VJgw9/2t7JWTiyI9C9JGPXnHJyHj0e0=",
